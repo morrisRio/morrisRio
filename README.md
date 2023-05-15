@@ -1,5 +1,5 @@
 👋 Hi, I’m @morrisRio
--   motivated development noob and designer
+-   curious development noob, designer
 -   jack of all trades, master of none
 
 <!---
