@@ -1,6 +1,5 @@
-👋 Hi, I’m @morrisRio
--   curious part time noob, designer most of the time
--   jack of all trades, master of none
+👋 Hi, i’m @morrisRio
+developer/designer focusing on appropriate use of tech with the User in mind
 
 <!---
 morrisRio/morrisRio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
